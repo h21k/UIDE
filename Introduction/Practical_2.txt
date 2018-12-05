@@ -1,0 +1,8 @@
+List all the interactive technologies that you have used in the past 2 days.
+
+ Discuss with your neighbour:
+- what made it easy to use?
+- what made it hard to use?
+- if it was hard to use, how did that affect you?
+
+add a 5-scale Likert scale to the items and rate it.
