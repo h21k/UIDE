@@ -4,6 +4,7 @@ User Interface Design &amp; Evaluation
 Current slides included: 
 
 + Introduction & User-Centered Design
++ Requirements
 
 Current exercises included: 
 
