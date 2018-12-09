@@ -7,6 +7,7 @@ Current slides included:
 + Requirements
 + Personas
 + Scenarios
++ Prototyping
 
 Current exercises included: 
 
@@ -16,8 +17,10 @@ Current exercises included:
 + Requirements: Practical 4
 + Personas: Practical 5
 + Scenarios: Practical 6
++ Prototyping: Practical 7
 
 Current media included: 
 
 + Introduction & UCD: SelectiveAttention.webm
 + Personas: Wang article about Personas in User Interface Design
++ Prototyping: LoFi_Prototyping videos 1-3, storyboard_clip, Principle.app (prototyping tool)
